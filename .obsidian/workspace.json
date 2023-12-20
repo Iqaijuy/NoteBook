@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "491315a5d120bc42",
+    "type": "split",
+    "children": [
+      {
+        "id": "beeb56c57bffe6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "738ed2d7342273f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b12ae44050ce49d",
+    "type": "split",
+    "children": [
+      {
+        "id": "58a5547255357d01",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc460a88c4918de4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d5cb432b8e931b36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ceeb02176e4d65ac",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a71936d07aa435cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "056139c4ba165e09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2147b4f5a5ddb05d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C++/未命名.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0968d5006fae3bc6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/未命名.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "10c59d1856ee89a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "780a06582251c095",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C++/未命名.md"
+              }
+            }
+          },
+          {
+            "id": "397ac6f2d57e4981",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "bc460a88c4918de4",
+  "lastOpenFiles": [
+    "C++/运算符重载.md",
+    "C++/未命名.md",
+    "未命名",
+    "未命名.canvas",
+    "Excalidraw/Drawing 2023-12-13 11.21.49.excalidraw.md",
+    "Excalidraw",
+    "C++"
+  ]
+}
