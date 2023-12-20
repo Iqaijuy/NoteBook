@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "491315a5d120bc42",
+    "id": "6a6ef08847b7c5d3",
     "type": "split",
     "children": [
       {
-        "id": "beeb56c57bffe6ed",
+        "id": "46a90086b6e7c2ee",
         "type": "tabs",
         "children": [
           {
-            "id": "738ed2d7342273f4",
+            "id": "7792abe955d60df6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "3b12ae44050ce49d",
+    "id": "a968e31af343aaa8",
     "type": "split",
     "children": [
       {
-        "id": "58a5547255357d01",
+        "id": "457325c12a8a896b",
         "type": "tabs",
         "children": [
           {
-            "id": "bc460a88c4918de4",
+            "id": "00e0dfd4cbf8ae97",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d5cb432b8e931b36",
+            "id": "1489852029dfe76b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ceeb02176e4d65ac",
+            "id": "bea30f14ee5b52f2",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,21 +72,21 @@
     "width": 300
   },
   "right": {
-    "id": "a71936d07aa435cf",
+    "id": "ffb82f201d72d0de",
     "type": "split",
     "children": [
       {
-        "id": "056139c4ba165e09",
+        "id": "649f6b87da3e487b",
         "type": "tabs",
         "children": [
           {
-            "id": "2147b4f5a5ddb05d",
+            "id": "cf671ed4a1c12190",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-				"file": "C++/运算符重载.md",
-				"file": "C++/结构体vector.md",
+                "file": "C++/结构体vector.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "0968d5006fae3bc6",
+            "id": "8002c868c26ee143",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-"file": "C++/运算符重载.md",
-"file": "C++/结构体vector.md",
+                "file": "C++/结构体vector.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "10c59d1856ee89a1",
+            "id": "336afc754b0b1f35",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,17 +120,17 @@
             }
           },
           {
-            "id": "780a06582251c095",
+            "id": "ae5450b775831bea",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-"file": "C++/运算符重载.md"
-"file": "C++/结构体vector.md"}
+                "file": "C++/结构体vector.md"
+              }
             }
           },
           {
-            "id": "397ac6f2d57e4981",
+            "id": "2315146d181103b6",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -158,13 +158,6 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "738ed2d7342273f4",
-  "lastOpenFiles": [
-    "C++/结构体vector.md",
-    "C++/运算符重载.md",
-    "未命名.canvas",
-    "Excalidraw/Drawing 2023-12-13 11.21.49.excalidraw.md",
-    "Excalidraw",
-    "C++"
-  ]
+  "active": "7792abe955d60df6",
+  "lastOpenFiles": []
 }
