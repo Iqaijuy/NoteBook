@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/结构体vector.md",
+                "file": "C++/运算符重载.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,8 @@
             "state": {
               "type": "backlink",
               "state": {
-				"file": "C++/运算符重载.md",
-				"file": "C++/结构体vector.md",
+                "file": "C++/运算符重载.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -102,8 +102,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-"file": "C++/运算符重载.md",
-"file": "C++/结构体vector.md",
+                "file": "C++/运算符重载.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -125,8 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-"file": "C++/运算符重载.md"
-"file": "C++/结构体vector.md"}
+                "file": "C++/运算符重载.md"
+              }
             }
           },
           {
@@ -161,7 +161,9 @@
   "active": "738ed2d7342273f4",
   "lastOpenFiles": [
     "C++/结构体vector.md",
+    "C++/未命名.md",
     "C++/运算符重载.md",
+    "未命名",
     "未命名.canvas",
     "Excalidraw/Drawing 2023-12-13 11.21.49.excalidraw.md",
     "Excalidraw",
