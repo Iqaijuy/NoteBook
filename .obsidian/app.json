@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./",
   "readableLineLength": true,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "alwaysUpdateLinks": true
 }
