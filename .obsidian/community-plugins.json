@@ -3,9 +3,5 @@
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
   "dataview",
-  "obsidian-kanban",
-  "calendar",
-  "obsidian-tasks-plugin",
-  "templater-obsidian",
-  "remotely-save"
+  "calendar"
 ]

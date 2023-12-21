@@ -153,15 +153,13 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "7792abe955d60df6",
   "lastOpenFiles": [
     "C++/运算符重载.md",
-    "README.md",
-    "C++/结构体vector.md"
+    "C++/结构体vector.md",
+    "README.md"
   ]
 }
